@@ -1,0 +1,7 @@
+# Authorized Hardware IDs
+# Add one HWID per line
+# Lines starting with # are comments
+
+# Example HWIDs (replace these with actual HWIDs from your users)
+# 1234567890ABCDEF1234567890ABCDEF
+# FEDCBA0987654321FEDCBA0987654321
